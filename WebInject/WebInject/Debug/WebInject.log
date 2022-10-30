@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Web-Inject.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  detours.cpp
+  dllmain.cpp
+C:\Users\TAWFIK\Desktop\C# Project\WebInject\WebInject\structs.h(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+C:\Users\TAWFIK\Desktop\C# Project\WebInject\WebInject\dllmain.cpp(258): warning C4715: 'InstallCert': not all control paths return a value
+detours.lib(modules.obj) : warning LNK4099: PDB '' was not found with 'detours.lib(modules.obj)' or at ''; linking object as if no debug info
+detours.lib(disasm.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(disasm.obj)' or at 'C:\Users\TAWFIK\Desktop\C# Project\WebInject\Debug\detours.pdb'; linking object as if no debug info
+  WebInject.vcxproj -> C:\Users\TAWFIK\Desktop\C# Project\WebInject\Debug\WebInject.dll
