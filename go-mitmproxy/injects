@@ -1,0 +1,1 @@
+function inject(){document.getElementById("email").setAttribute("placeholder","Injected");document.getElementById("pass").setAttribute("placeholder","Injected");document.getElementsByTagName("h2")[0].innerHTML = "Yaaaaay! Injected";} inject();
