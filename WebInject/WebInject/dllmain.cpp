@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <mbstring.h>
-#pragma comment(lib, "C:/Users/TAWFIK/Desktop/C# Project/hooking/HOOK/PR_Read/Debug/detours.lib")
+#pragma comment(lib, "PATH/TO/detours.lib")
 #pragma comment( lib, "ws2_32.lib" )
 #define PR_AF_INET 2
 #define _WINSOCK_DEPRECATED_NO_WARNINGS
